@@ -42,3 +42,5 @@ telegram chatbot
 - Random note: 3
 
 * Bullet point 68
+
+* Bullet point 3
