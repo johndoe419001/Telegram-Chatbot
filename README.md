@@ -100,3 +100,5 @@ telegram chatbot
 ### Section 9
 
 ### Section 6
+
+**Bold text** for update 9
