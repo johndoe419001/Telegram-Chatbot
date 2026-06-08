@@ -18,3 +18,5 @@ telegram chatbot
 - Random note: 66
 
 **Bold text** for update 57
+
+* Bullet point 22
